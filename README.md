@@ -24,6 +24,7 @@ composer require fusic/valii
   - 全角のみチェック
 - ZipCode
   - 郵便番号チェック
+- test
 
 ## Usage
 
